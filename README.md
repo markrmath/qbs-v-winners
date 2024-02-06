@@ -38,7 +38,7 @@ Fourth, here are some clarifications or judgement calls made on the data itself:
  
  • This includes only regular season games. Postseason is not included.
 
-### Conclusions:
+### Conclusions
 
 The results looked and felt authentic, giving me hope in the general metric. The higher-status QBs, such as All-Pros and Hall of Famers, tended to have better records, while QBs who never received such honors tended to score lower. These were the results I expected, passing the "smell test", as it were.
 
