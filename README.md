@@ -11,13 +11,14 @@ I decided to look into it myself.
 ## Questions
 
 •	What is the typical QB record against teams with a winning record?
+
 •	Does this align with awards given to higher performing Quarterbacks? Namely, the Pro Bowl, first team All-Pro, and the Hall of the Fame?
 
 ### Process
 
 The first step was pulling data from stathead, where I learned a lot about browser cookies and their authentication processes due to the fact that I used google to sign into stathead, not a traditional account. I finally stumbled on the browser-cookie method and got it working.* With this, I created a few functions to pull the QB gamelogs from stathead, organized the data how I wanted it, pulled in the Pro Bowl, All Pro, and Hall of Fame lists, and finally got the chart I wanted at the end.
 
-* If you're trying to recreate this, it's a significantly more complicated process if you use Google Chrome. I did not try any other browsers.
+(*If you're trying to recreate this, it's a significantly more complicated process if you use Google Chrome. I did not try any other browsers.)
 
 ### Limitations and Decisions
 
@@ -28,9 +29,13 @@ Secondly, how I assigned a game to each quarterback is using stathead/PFR's 'QB 
 Thirdly, while there are 2 All-Pro teams (first and second) and traditionally both teams are considered "All-Pros", stathead only returns the results for 1st team All-Pros, unfairly neglected QBs who only won 2nd teams in their careers. 
 
 Fourth, here are some clarifications or judgement calls made on the data itself:
+
   • I considered a team to have a winning record if they have a winning percentage of .501 or higher. A team that finished 8-8, or 8-8-1, is not considered a winning record.
+
   • Ties were counted the same as the official NFL standings do, .5 of a win and .5 of a loss. 
+  
   • The final chart displays only QBs that started at least 10 games against winning teams. A QB that starts for 2 whole seasons in the modern usually gets at least 10 games, as 6-7 games vs winners a season was relatively standard in the modern. For comparison, this data was pulled after the 2023 regular season, and Brock Purdy, who has started a season and a half, made the cutoff. I did include a chart of all QBs, regardless of sample size, for comparison.
+ 
  • This includes only regular season games. Postseason is not included.
 
 ### Data Source and Technologies
