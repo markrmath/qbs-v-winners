@@ -26,7 +26,7 @@ First off, I decided to limit my data to the Super Bowl era. There are arguments
 
 Secondly, how I assigned a game to each quarterback is using stathead/PFR's 'QB Start' statistic. This leads to individual oddities where Quarterbacks who started games and got immediately hurt and unable to play received a win, loss, or tie they had little to no hand in causing. This is unfair, and ideally I would use something more indicitive of play, such as assigning the QB who played at least 50% of offensive snaps the outcome, but this was a more complicated procedure and I presumed its effect on the overall results would be minimal, and not worth the effort.
 
-Thirdly, while there are 2 All-Pro teams (first and second) and traditionally both teams are considered "All-Pros", stathead only returns the results for 1st team All-Pros, unfairly neglected QBs who only won 2nd teams in their careers. 
+Thirdly, while there are 2 All-Pro teams (first and second) and traditionally both teams are considered "All-Pros", stathead only returns the results for 1st team All-Pros, unfairly neglecting QBs who only won 2nd teams in their careers. 
 
 Fourth, here are some clarifications or judgement calls made on the data itself:
 
@@ -34,13 +34,13 @@ Fourth, here are some clarifications or judgement calls made on the data itself:
 
   • Ties were counted the same as the official NFL standings do, .5 of a win and .5 of a loss. 
   
-  • The final chart displays only QBs that started at least 10 games against winning teams. A QB that starts for 2 whole seasons in the modern usually gets at least 10 games, as 6-7 games vs winners a season was relatively standard in the modern. For comparison, this data was pulled after the 2023 regular season, and Brock Purdy, who has started a season and a half, made the cutoff. I did include a chart of all QBs, regardless of sample size, for comparison.
+  • The final chart displays only QBs that started at least 10 games against winning teams. A QB that starts for 2 whole seasons in the modern usually gets at least 10 games, as 6-7 games vs winners a season was relatively standard in the modern era. For comparison, this data was pulled after the 2023 regular season, and Brock Purdy, who has started a season and a half, made the cutoff. I did include a chart of all QBs, regardless of sample size, for comparison.
  
  • This includes only regular season games. Postseason is not included.
 
 ### Conclusions
 
-The results looked and felt authentic, giving me hope in the general metric. The higher-status QBs, such as All-Pros and Hall of Famers, tended to have better records, while QBs who never received such honors tended to score lower. These were the results I expected, passing the "smell test", as it were.
+The results looked and felt authentic, giving me hope in the general metric. The higher-status QBs, such as All-Pros and Hall of Famers, trended towards have better records, while QBs who never received such honors tended to score lower. These were the results I expected, passing the "smell test."
 
 Specifically regarding Matthew Stafford and Kirk Cousins, Kirk's record has improved significantly since the days of this argument being thrown around, and I haven't heard anyone say this about either QB for years. Stafford remains an anomaly even after winning a Super Bowl, coming in with the 3rd-worst record of the Super Bowl era with the 10 game cutoff. However, the data includes several such anomalies, and I'm comfortable saying it's not a perfect bullet. Notorious 1st overall bust JaMarcus Russell boasts a higher-than-average winning percentage of around 40%. Brock Osweiler boasts a >50% record. NFL seasons are small sample sizes compared to other sports, and eliminating roughly half the games reduces it even further, meaning some oddities are going to leak through.
 
