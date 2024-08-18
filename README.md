@@ -44,10 +44,10 @@ The results looked and felt authentic, giving me hope in the general metric. The
 
 Specifically regarding Matthew Stafford and Kirk Cousins, Kirk's record has improved significantly since the days of this argument being thrown around, and I haven't heard anyone say this about either QB for years. Stafford remains an anomaly even after winning a Super Bowl, coming in with the 3rd-worst record of the Super Bowl era with the 10 game cutoff. However, the data includes several such anomalies, and I'm comfortable saying it's not a perfect bullet. Notorious 1st overall bust JaMarcus Russell boasts a higher-than-average winning percentage of around 40%. Brock Osweiler boasts a >50% record. NFL seasons are small sample sizes compared to other sports, and eliminating roughly half the games reduces it even further, meaning some oddities are going to leak through.
 
+In addition, while QB is the most important position in football, it is not the only position. Anyone who's watched the sport has seen excellent QB games lost because of the failure of the team around them, or because the other team simply performed even better. Stafford spent most of his career weighed down by the ineptitude of the late 00s-10s Lions, a completely dysfunctional organization from top to bottom who failed to achieve any manner of success despite drafting Stafford, Calvin Johnson, and Ndamukong Suh.
+
 ### Data Source and Technologies
 
 All data sourced from stathead.com/Pro Football Reference
 
 Built and created in Jupyter Notebooks using Python
-
-In addition, while QB is the most important position in football, it is not the only position. Anyone who's watched the sport has seen excellent QB games lost because of the failure of the team around them, or because the other team simply performed even better. Stafford spent most of his career weighed down by the ineptitude of the late 00s-10s Lions, a completely dysfunctional organization from top to bottom who failed to achieve any manner of success despite drafting Stafford, Calvin Johnson, and Ndamukong Suh.
